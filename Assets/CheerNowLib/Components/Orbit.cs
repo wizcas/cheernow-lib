@@ -1,4 +1,11 @@
-﻿using UnityEngine;
+﻿/*****************************************************
+/* Created by Wizcas Chen (http://wizcas.me)
+/* Please contact me if you have any question
+/* E-mail: chen@wizcas.me
+/* 2017 © All copyrights reserved by Wizcas Zhuo Chen
+*****************************************************/
+
+using UnityEngine;
 using System.Collections;
 
 public class Orbit : MonoBehaviour {
@@ -12,7 +19,6 @@ public class Orbit : MonoBehaviour {
 	public Vector3 offset;
 
 	private Vector3 _beginMousePos;
-	private Vector2 _beginAngle;
 	private float _xAngle;
 	private float _yAngle;
 	private float _distance;

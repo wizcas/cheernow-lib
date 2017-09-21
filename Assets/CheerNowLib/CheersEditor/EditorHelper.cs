@@ -1,6 +1,10 @@
-﻿/**************************************
-/* Created by Wizcas (http://wizcas.me)
-**************************************/
+﻿/*****************************************************
+/* Created by Wizcas Chen (http://wizcas.me)
+/* Please contact me if you have any question
+/* E-mail: chen@wizcas.me
+/* 2017 © All copyrights reserved by Wizcas Zhuo Chen
+*****************************************************/
+
 //#define VERBOSE
 
 using UnityEngine;

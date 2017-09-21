@@ -7,7 +7,7 @@ This is a Unity3D utility lib for commonly used operations in my daily's work. H
 ## Features
 
 |Category|Module|Description|
-|-|-|-|-|
+|---|---|---|---|
 |CheerNowLib|CheersEditor|Inspection extension for: inspecting methods & properties, readonly fields, expandable help box and more|
 ||Utility|A collection of helper classes and type extensions, including singleton, logging, vector helper, color helper, etc.|
 ||Components|Useful components which can be added to GameObjects directly|

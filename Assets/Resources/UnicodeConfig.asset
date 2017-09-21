@@ -1,0 +1,321 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a33b43c057ee349c980c521fae83117a, type: 3}
+  m_Name: UnicodeConfig
+  m_EditorClassIdentifier: 
+  illegalExcludes:
+  - min: 35
+    max: 35
+  - min: 42
+    max: 42
+  - min: 48
+    max: 57
+  - min: 169
+    max: 169
+  - min: 174
+    max: 174
+  - min: 8252
+    max: 8252
+  - min: 8265
+    max: 8265
+  - min: 8482
+    max: 8482
+  - min: 8505
+    max: 8505
+  - min: 8596
+    max: 8601
+  - min: 8617
+    max: 8618
+  - min: 8986
+    max: 8987
+  - min: 9000
+    max: 9000
+  - min: 9167
+    max: 9167
+  - min: 9193
+    max: 9203
+  - min: 9208
+    max: 9210
+  - min: 9410
+    max: 9410
+  - min: 9642
+    max: 9643
+  - min: 9654
+    max: 9654
+  - min: 9664
+    max: 9664
+  - min: 9723
+    max: 9726
+  - min: 9728
+    max: 9732
+  - min: 9742
+    max: 9742
+  - min: 9745
+    max: 9745
+  - min: 9748
+    max: 9749
+  - min: 9752
+    max: 9752
+  - min: 9757
+    max: 9757
+  - min: 9760
+    max: 9760
+  - min: 9762
+    max: 9763
+  - min: 9766
+    max: 9766
+  - min: 9770
+    max: 9770
+  - min: 9774
+    max: 9775
+  - min: 9784
+    max: 9786
+  - min: 9800
+    max: 9811
+  - min: 9824
+    max: 9824
+  - min: 9827
+    max: 9827
+  - min: 9829
+    max: 9830
+  - min: 9832
+    max: 9832
+  - min: 9851
+    max: 9851
+  - min: 9855
+    max: 9855
+  - min: 9874
+    max: 9876
+  - min: 9878
+    max: 9879
+  - min: 9881
+    max: 9881
+  - min: 9883
+    max: 9884
+  - min: 9888
+    max: 9889
+  - min: 9898
+    max: 9899
+  - min: 9904
+    max: 9905
+  - min: 9917
+    max: 9918
+  - min: 9924
+    max: 9925
+  - min: 9928
+    max: 9928
+  - min: 9934
+    max: 9934
+  - min: 9986
+    max: 9986
+  - min: 9989
+    max: 9989
+  - min: 9992
+    max: 9997
+  - min: 9999
+    max: 9999
+  - min: 10002
+    max: 10002
+  - min: 10004
+    max: 10004
+  - min: 10006
+    max: 10006
+  - min: 10013
+    max: 10013
+  - min: 10017
+    max: 10017
+  - min: 10035
+    max: 10036
+  - min: 10052
+    max: 10052
+  - min: 10055
+    max: 10055
+  - min: 10060
+    max: 10060
+  - min: 10062
+    max: 10062
+  - min: 10067
+    max: 10069
+  - min: 10071
+    max: 10071
+  - min: 10083
+    max: 10084
+  - min: 10133
+    max: 10135
+  - min: 10145
+    max: 10145
+  - min: 10160
+    max: 10160
+  - min: 10175
+    max: 10175
+  - min: 10548
+    max: 10549
+  - min: 11013
+    max: 11015
+  - min: 11035
+    max: 11036
+  - min: 12336
+    max: 12336
+  - min: 12349
+    max: 12349
+  - min: 12951
+    max: 12951
+  - min: 12953
+    max: 12953
+  illegalRanges:
+  - min: 0
+    max: 31
+  - min: 127
+    max: 127
+  - min: 9935
+    max: 9935
+  - min: 9937
+    max: 9937
+  - min: 9939
+    max: 9940
+  - min: 9961
+    max: 9962
+  - min: 9968
+    max: 9973
+  - min: 9975
+    max: 9978
+  - min: 9981
+    max: 9981
+  - min: 10024
+    max: 10024
+  - min: 11088
+    max: 11088
+  - min: 11093
+    max: 11093
+  - min: 55296
+    max: 63743
+  - min: 126980
+    max: 126980
+  - min: 127183
+    max: 127183
+  - min: 127344
+    max: 127345
+  - min: 127358
+    max: 127359
+  - min: 127374
+    max: 127374
+  - min: 127377
+    max: 127386
+  - min: 127462
+    max: 127487
+  - min: 127489
+    max: 127490
+  - min: 127514
+    max: 127514
+  - min: 127535
+    max: 127535
+  - min: 127538
+    max: 127546
+  - min: 127568
+    max: 127569
+  - min: 127744
+    max: 127891
+  - min: 127894
+    max: 127895
+  - min: 127897
+    max: 127899
+  - min: 127902
+    max: 127984
+  - min: 127987
+    max: 127989
+  - min: 127991
+    max: 128247
+  - min: 128248
+    max: 128253
+  - min: 128255
+    max: 128317
+  - min: 128329
+    max: 128334
+  - min: 128336
+    max: 128359
+  - min: 128367
+    max: 128368
+  - min: 128371
+    max: 128377
+  - min: 128378
+    max: 128378
+  - min: 128391
+    max: 128391
+  - min: 128394
+    max: 128397
+  - min: 128400
+    max: 128400
+  - min: 128405
+    max: 128406
+  - min: 128420
+    max: 128421
+  - min: 128424
+    max: 128424
+  - min: 128433
+    max: 128434
+  - min: 128444
+    max: 128444
+  - min: 128450
+    max: 128452
+  - min: 128465
+    max: 128467
+  - min: 128476
+    max: 128478
+  - min: 128481
+    max: 128481
+  - min: 128483
+    max: 128483
+  - min: 128488
+    max: 128488
+  - min: 128495
+    max: 128495
+  - min: 128499
+    max: 128499
+  - min: 128506
+    max: 128591
+  - min: 128640
+    max: 128709
+  - min: 128715
+    max: 128719
+  - min: 128720
+    max: 128722
+  - min: 128736
+    max: 128741
+  - min: 128745
+    max: 128745
+  - min: 128747
+    max: 128748
+  - min: 128752
+    max: 128752
+  - min: 128755
+    max: 128758
+  - min: 129296
+    max: 129310
+  - min: 129312
+    max: 129319
+  - min: 129328
+    max: 129328
+  - min: 129331
+    max: 129338
+  - min: 129340
+    max: 129342
+  - min: 129344
+    max: 129349
+  - min: 129351
+    max: 129355
+  - min: 129360
+    max: 129374
+  - min: 129408
+    max: 129425
+  - min: 129472
+    max: 129472
+  illegalExcluesFilePath: Assets/Unicode/Data/legal-emoji.txt
+  illegalRangesFilePath: Assets/Unicode/Data/emoji-data.txt

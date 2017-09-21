@@ -1,0 +1,5 @@
+23E9..23F3    ; Emoji                # 6.0 [11] (⏩..⏳)    BLACK RIGHT-POINTING DOUBLE TRIANGLE..HOURGLASS WITH FLOWING SAND
+#0000..0fff
+#4000..41ff
+#41ff..42ff
+#4300..43ff

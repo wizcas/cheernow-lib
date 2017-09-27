@@ -112,7 +112,7 @@ public class PrettyLog
         var list = new string[count];
         for (int i = 0; i < count; i++)
         {
-            list[i] = string.Format("{{{0}}", i);
+            list[i] = string.Format("{{{0}}}", i);
         }
         return string.Join("\t", list);
     }
